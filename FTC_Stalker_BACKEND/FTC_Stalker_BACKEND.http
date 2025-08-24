@@ -1,0 +1,6 @@
+@FTC_Stalker_BACKEND_HostAddress = http://localhost:5130
+
+GET {{FTC_Stalker_BACKEND_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

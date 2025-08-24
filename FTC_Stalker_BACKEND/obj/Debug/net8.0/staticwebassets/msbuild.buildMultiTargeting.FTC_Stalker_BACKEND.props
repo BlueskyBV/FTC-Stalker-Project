@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FTC_Stalker_BACKEND.props" />
+</Project>
